@@ -1,2 +1,3 @@
 # Expense-Tracker
-A modern full-stack Expense Tracker web application built using Spring Boot (Backend) and React.js (Frontend) to help users manage, monitor, and analyze their daily expenses efficiently.  This project provides a simple and intuitive interface for tracking income and expenses, visualizing spending patterns, and maintaining financial discipline.
+A simple and efficient Expense Tracker Web Application built using Spring Boot (Backend) and HTML, CSS, JavaScript (Frontend) to manage daily expenses and income.
+This project helps users track spending, manage financial records, and analyze transactions through a clean and user-friendly interface.
